@@ -1,0 +1,33 @@
+Codebuch 
+
+Edge-Attribute
+id = Codierung der Knoten 
+"from -> to = definiert die Heimatländer der Spielerinnen und alle Vereine, in denen die Spielerinnen Mitglieder sind oder waren "
+
+Node-Attribute
+"id = ID zur Identifikation der Spielerinnen, Vereine und Länder, von 1-76"
+"name = voller Name der Spielerinnen, Vereine und Länder"
+type = Art des Knotens
+0 = Person/Spielerin
+1 = Verein oder Herkunftsland 
+birth = Geburtsjahr 
+age = Alter 
+1 = 20 und jünger
+2 = 21-23
+3 = 24-26
+4 = 27 und älter
+position = Spielposition 
+1 = Mittelblock 
+2 = Zuspiel
+3 = Außenangriff
+4 = Diagonal
+5 = Libera 
+country = Herkunftsland der Spielerinnen
+DE = Deutschland
+NDL = Niederlande
+USA = USA/Vereinigte Staaten von Amerika
+BGR = Bulgarien
+BEL = Belgien
+POL = Polen
+ESP = Spanien
+FIN = Finnland
